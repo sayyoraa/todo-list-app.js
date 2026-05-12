@@ -25,7 +25,7 @@ form.addEventListener("submit", function (e) {
         <p class="todo">${input.value}</p>
     </div>
     <button class="remove_btn">
-        <img src="./img/trash.svg" width="50" height="50" alt="trash-icon">
+        <img src="./trash.svg" width="50" height="50" alt="trash-icon">
     </button>
     `
 
